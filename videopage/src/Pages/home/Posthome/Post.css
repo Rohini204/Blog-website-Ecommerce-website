@@ -1,0 +1,40 @@
+.post{
+    width: 385px;
+    margin: 0px 25px 100px 25px;
+}
+
+.postImg{
+    width: 400px;
+    height: 280px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cat{
+    font-family: "Varela Round",sans-serif;
+    font-size: 13px;
+    color: #867a7a;
+    line-height: 20px;
+}
+
+.posttitle{
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+.date{
+    font-family: "Varela Round",sans-serif;
+    font-size: 13px;
+    color: #867a7a;
+    line-height: 20px;
+    margin-top: 15px;
+    margin-bottom: 0;
+}

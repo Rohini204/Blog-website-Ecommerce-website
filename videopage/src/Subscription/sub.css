@@ -1,0 +1,8 @@
+.subs{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+.top1{
+    display: flex;
+}

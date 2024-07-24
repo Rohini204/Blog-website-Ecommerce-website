@@ -1,0 +1,17 @@
+.single{
+    flex: 9; 
+ }
+ 
+ .para
+ {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size: 20px;
+ }
+ 
+ .heading{
+    font-style: normal;
+    font-style: initial;
+    color: #33FFFF;
+ }
+ 

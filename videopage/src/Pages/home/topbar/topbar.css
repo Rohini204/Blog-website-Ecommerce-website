@@ -1,0 +1,31 @@
+.top_i{
+    display: flex;
+    padding-left: 41%;
+}
+
+.icon{
+    margin-right: 2px;
+}
+.topl{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+.topli{
+    margin-right: 50px;
+    font-size: 18px;
+    font-weight: 10;
+    cursor: pointer;
+}
+.line1{
+    background-color: black;
+    height:1px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.line2{
+    background-color: black;
+    height:4px;
+    margin-left: 15%;
+    margin-right: 15%;
+}

@@ -1,0 +1,9 @@
+.posts1{
+    flex:9;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 40px;
+    margin-left: 200px;
+    column-gap: 100px;
+    row-gap: 0;
+}

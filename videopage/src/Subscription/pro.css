@@ -1,0 +1,12 @@
+.clpost2{
+    flex: 6;
+    align-items: center;
+    margin-left: 30px;
+    border: solid;
+    border-color: rgb(237, 229, 229);
+    transition: transform 0.2s ease;
+
+}
+.clpost1:hover {
+    transform: scale(1.1);
+  }
